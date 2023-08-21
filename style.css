@@ -8,6 +8,7 @@ body{
 nav{
 
   display: flex;
-  
+  width: 150;
+  height: 150;  
 
 }
