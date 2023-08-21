@@ -4,3 +4,10 @@ body{
   background-repeat: no-repeat;
   background-attachment: fixed;
 }
+
+nav{
+
+  display: flex;
+  
+
+}
